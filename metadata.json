@@ -1,0 +1,6 @@
+{
+  "name": "L'Écrin - Haute Gastronomie",
+  "description": "Site officiel du restaurant gastronomique d'exception L'Écrin. Haute cuisine d'auteur, carte des saisons, cave de prestige et réservations en ligne.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
